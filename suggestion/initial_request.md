@@ -5,4 +5,3 @@ A `random anthro girl` is fed up with her own lack of confidence regarding sexua
 ## Notes
 
 + The story is a complete re-write of a story that began as a commission in February 2021. While all former writing is being tossed out, the seed for this story is not.
-+ 
