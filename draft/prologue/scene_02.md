@@ -1,0 +1,7 @@
+Two weeks in Puerto Rico had reminded Nina of how much she loved the family house in Alabaster. She didn’t own it, but since she’d gotten into university, her parents had spent more and more time traveling around, and were spending a lot more time with Tio Pedro and Tia Dulce. They said it was to let Nina spread her wings, though they still paid the bills and a trust they had set up for her gave her a comfortable budget for things like groceries and whatever other interests she had.
+
+As an adult, however, her parents got her far less interesting presents for Navidad than they had when she was growing up. Papi at least had gotten her things she might have asked for — a USB security key and a smart watch — while mama had gotten her clothes. Two outfits she said would be perfect for any office. One was a pantsuit, the other was a skirt suit, and four plastic eggs of pantyhose. Nina hadn’t even seen these eggs since she was a kid.
+
+Still, she unpacked her gifts and then her own clothes. It was only when she got to the bottom of her bag that she noticed a wrapped up box labeled, “Take it easy once in a while, mi sobrina.” It was Tia Dulce’s handwriting, and Nina sighed. Tia Dulce always seemed to sneak these gifts in. Knowing Tia Dulce, it was probably a set of acrylic paints.
+
+Nina smiled and set the package on her dresser, starting to put things away. She’d need to call Tia Dulce later to thank her for being so thoughtful.
