@@ -13,7 +13,7 @@
 
 ## Physical Description
 
-Nina is an otter girl who stands about 5’6” or 168 cm tall, and has a slightly pear-shaped body. Her base fur color is lilac, with white rings aroudn her muzzle, eyes, wrists, and ankles, and solid white fur on her tummy below her breasts, and the underside of her tail. She dresses in a conservative and professional manner which conceals her 32C breasts as much as possible, and prefers one-piece swimsuits to bikinis of any sort.
+Nina is an otter girl who stands about 5’6” or 168 cm tall, and has a slightly pear-shaped body. Her base fur color is lilac, with white rings around her muzzle, eyes, wrists, and ankles, and solid white fur on her tummy below her breasts, and the underside of her tail. She dresses in a conservative and professional manner which conceals her 32C breasts as much as possible, and prefers one-piece swimsuits to bikinis of any sort.
 
 ## Personality
 

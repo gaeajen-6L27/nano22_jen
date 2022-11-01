@@ -1,0 +1,10 @@
+Type,Label,Identifier,Initials,Short Label,Summary,Chronological Position,Narrative Position,Color,Parent,Ongoing,Start Date,Latest Start Date,Duration,Earliest End Date,End Date,Tags,Blocked By,Blocks,Date Constraints,Links,Image (Links only),Participant
+Event,"Nina Accepted to Internship","EV3",,,,1,"Scene 1",Apple,,False,2020-12-10,,"0 seconds",,2020-12-10,"","","","","",,"NN"
+Event,"Nina Starts Internship","EV4",,,,2.1,"Scene 2",Apple,"Nina Undergrad Y4-Winter + Int",False,2021-01-11,,"0 seconds",,2021-01-11,"","","","","",,"NN"
+Event,"Nina Undergrad Y4-Winter + Internship","EV2",,,,2,,Peach,,False,2021-01-11,,"3 months, 3 weeks, 5 days, 8 hours",,2021-05-07 08:00,"","","","","",,"NN"
+Event,"Nina Attends Friday Night Social","EV5",,,,2.2,"Scene 3",Yellow,"Nina Undergrad Y4-Winter + Int",False,2021-01-22,,"0 seconds",,2021-01-22,"","","","","",,"NN,AA"
+Event,"Nina's Hangover","EV6",,,,2.3,"Scene 4",Yellow,"Nina Undergrad Y4-Winter + Int",False,2021-01-23,,"0 seconds",,2021-01-23,"","","","","",,"NN"
+Event,"Nina Kisses Amanda","EV7",,,,2.4,"Scene 5",Apple,"Nina Undergrad Y4-Winter + Int",False,2021-02-12 21:00,,"0 seconds",,2021-02-12 21:00,"","","","","",,"NN,AA"
+Event,"Nina on Spring Break","EV1",,,,2.5,,Yellow,"Nina Undergrad Y4-Winter + Int",False,2021-03-20,,"1 week, 2 days",,2021-03-29,"","","","","",,"AA,NN"
+Character,"Nunez, Nina","PER1",NN,,,,,Light Purple,,False,,,"0 seconds",,,"","","","","",,""
+Character,"Andrews, Amanda","PER2",AA,,,,,Light Teal,,False,,,"0 seconds",,,"","","","","",,""
