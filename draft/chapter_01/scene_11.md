@@ -1,0 +1,1 @@
+Nina had finished making a pot of rice and beans with shrimp and scallops. The week had been busy and crazy and she was just ready for a few days off. Next week would be easier just thanks to having done a week already.
