@@ -3,9 +3,13 @@
 + **Story Length:** ≥ 50 kw
 + **Words per Day (w/D):** ≥ 1.667 kw
 
-# Current Progress
+## Current Progress
 
-+ **Date:** 01-Nov-2022
++ **Date:** 03-Nov-2022
++ **New Wordcount:** 1.679 kw
++ **Total Wordcount:** 5.426 kw
+
++ **Date:** 02-Nov-2022
 + **New Wordcount:** 1.904 kw
 + **Total Wordcount:** 3.747 kw
 
